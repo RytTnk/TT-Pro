@@ -1,0 +1,8 @@
+{
+  "name": "TT-Pro: Aero & Strategy",
+  "description": "A comprehensive Road Race Time Trial analysis tool featuring fitness tracking, computer vision-based aero analysis, and AI-driven race strategy planning.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
